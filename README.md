@@ -96,7 +96,7 @@ install it with the command-line tool [cv](https://github.com/civicrm/cv).
 
 ```bash
 cd <extension-dir>
-cv dl net.ourpowerbase.qrcodecheckin@https://github.com/progresssivetech/net.ourpowerbase.qrcodecheckin/archive/master.zip
+cv dl net.ourpowerbase.qrcodecheckin@https://github.com/progressivetech/net.ourpowerbase.qrcodecheckin/archive/master.zip
 ```
 
 ## Installation (CLI, Git)
